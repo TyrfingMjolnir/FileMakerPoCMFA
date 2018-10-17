@@ -26,5 +26,6 @@ It's possible to build 2FA login procedure with FileMaker and an external mode o
 ```
 1) A [x] checkbox for making login script uninterruptable
 2) Give each account an expiry field that will automatically delete or disable the account
-   at a given point in time, as pr timestamp as an example.
+   at a given point in time, as pr timestamp as an example. To avoid wasting resource the best trigger for this validation
+   may be each login attempt.
 ```
