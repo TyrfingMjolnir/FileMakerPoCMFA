@@ -22,8 +22,9 @@ This file is here for discussion, this file may or may not contain a valid conce
 
 
 # Hypothesis
-It's possible to built 2FA with FileMaker as this PoC; however it will be desirable to verify the MFA throughout the login process; do to so will take 2 steps in amendment of FileMaker. And for FMI to create
+It's possible to build 2FA login procedure with FileMaker and an external mode of transport for this PoC; however it will be desirable to verify the MFA throughout the login process; to do so will take 2 steps in amendment of FileMaker. And for FMI to implement
 ```
-1) Uninterruptable login script
-2) Give the account an expiry field that will automatically delete or disable the account at a given point in time, as pr timestamp as an example.
+1) A [x] checkbox for making login script uninterruptable
+2) Give each account an expiry field that will automatically delete or disable the account
+   at a given point in time, as pr timestamp as an example.
 ```
