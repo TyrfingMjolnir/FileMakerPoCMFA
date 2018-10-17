@@ -10,11 +10,11 @@ This file is here for discussion, this file may or may not contain a valid conce
 
 
 
-Ways to generate account
-1) Let admin create the entry
-2) Send a request to generate account for username and mailaddress via: email, SMS, CWP, DATA API
+1. Ways to generate account
+  1. Let admin create the entry
+  1. Send a request to generate account for username and mailaddress via: email, SMS, CWP, DATA API
 
 
 
-Ways to communicate password
-1) Issue SMS or email preferably my a mode of transport not used to generating the account as that would lower the factor. 
+2. Ways to communicate password
+  1. Issue SMS or email preferably my a mode of transport not used to generating the account as that would lower the factor. 
