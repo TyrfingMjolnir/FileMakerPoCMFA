@@ -9,12 +9,13 @@ This file is here for discussion, this file may or may not contain a valid conce
 4) User accounts are deactivated 24 hrs after initial login as pr this example; this could be 4 or 10 weeks depending on [SOP](https://en.wikipedia.org/wiki/Standard_operating_procedure)
 
 
+```
+1.0 Ways to generate account
+  1.1 Let admin create the entry
+  1.2 Send a request to generate account for username and mailaddress via: email, SMS, CWP, DATA API do NOT mention the username in this piece of communication.
+```
 
--1.0 Ways to generate account
-  -1.1 Let admin create the entry
-  -1.2 Send a request to generate account for username and mailaddress via: email, SMS, CWP, DATA API do NOT mention the username in this piece of communication.
-
-
-
--2.0 Ways to communicate password
-  -2.1 Issue SMS or email preferably my a mode of transport not used to generating the account as that would lower the factor. 
+```
+2.0 Ways to communicate password
+  2.1 Issue SMS or email preferably my a mode of transport not used to generating the account as that would lower the factor. 
+```
