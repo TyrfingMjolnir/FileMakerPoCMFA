@@ -33,4 +33,4 @@ It's possible to build 2FA login procedure with FileMaker and an external mode o
 ```
 
 # Conclusion
-No single application can truly be MFA; as it's 1FA no matter how one turns the "rubik's cube"; time can add a factor however.
+No single application can truly be MFA; as it's 1FA no matter how one turns the "Rubik's cube"; time can add a factor however.
